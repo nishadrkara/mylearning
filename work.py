@@ -7,3 +7,5 @@ def foo(x,y):
   return (x,y)
 
 foo(12,34)
+# its the my new function
+import random
